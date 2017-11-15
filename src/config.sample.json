@@ -1,0 +1,6 @@
+{
+   "vstsToken": "xyz",
+   "vstsServer": "company.visualstudio.com",
+   "vstsUsername": "user@company.com",
+   "slackToken": "xyz"
+}
